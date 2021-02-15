@@ -1,0 +1,6 @@
+
+tsquid:S1450"VRemove the "factory" field and declare it as a local variable in the relevant methods.(¯é±¬8Ä¬µ¸ù.
+e$squid:AssignmentInSubExpressionCheck".Extract the assignment out of this expression.(“‚Îû8’İµ¸ù.
+Hsquid:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8ï½®¸ù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØçÑé8ï½®¸ù.

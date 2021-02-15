@@ -1,0 +1,416 @@
+[
+  {
+    "borough": "Manhattan",
+    "zone": "Alphabet City",
+    "locationid": 4,
+    "id": 3
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Battery Park",
+    "locationid": 12,
+    "id": 11
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Battery Park City",
+    "locationid": 13,
+    "id": 12
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Bloomingdale",
+    "locationid": 24,
+    "id": 23
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Central Harlem",
+    "locationid": 41,
+    "id": 40
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Central Harlem North",
+    "locationid": 42,
+    "id": 41
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Central Park",
+    "locationid": 43,
+    "id": 42
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Chinatown",
+    "locationid": 45,
+    "id": 44
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Clinton East",
+    "locationid": 48,
+    "id": 47
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Clinton West",
+    "locationid": 50,
+    "id": 49
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "East Chelsea",
+    "locationid": 68,
+    "id": 67
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "East Harlem North",
+    "locationid": 74,
+    "id": 73
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "East Harlem South",
+    "locationid": 75,
+    "id": 74
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "East Village",
+    "locationid": 79,
+    "id": 78
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Financial District North",
+    "locationid": 87,
+    "id": 86
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Financial District South",
+    "locationid": 88,
+    "id": 87
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Flatiron",
+    "locationid": 90,
+    "id": 89
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Garment District",
+    "locationid": 100,
+    "id": 99
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Governor's Island/Ellis Island/Liberty Island",
+    "locationid": 103,
+    "id": 102
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Governor's Island/Ellis Island/Liberty Island",
+    "locationid": 104,
+    "id": 103
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Governor's Island/Ellis Island/Liberty Island",
+    "locationid": 105,
+    "id": 104
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Gramercy",
+    "locationid": 107,
+    "id": 106
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Greenwich Village North",
+    "locationid": 113,
+    "id": 112
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Greenwich Village South",
+    "locationid": 114,
+    "id": 113
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Hamilton Heights",
+    "locationid": 116,
+    "id": 115
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Highbridge Park",
+    "locationid": 120,
+    "id": 119
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Hudson Sq",
+    "locationid": 125,
+    "id": 124
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Inwood",
+    "locationid": 127,
+    "id": 126
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Inwood Hill Park",
+    "locationid": 128,
+    "id": 127
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Kips Bay",
+    "locationid": 137,
+    "id": 136
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Lenox Hill East",
+    "locationid": 140,
+    "id": 139
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Lenox Hill West",
+    "locationid": 141,
+    "id": 140
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Lincoln Square East",
+    "locationid": 142,
+    "id": 141
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Lincoln Square West",
+    "locationid": 143,
+    "id": 142
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Little Italy/NoLiTa",
+    "locationid": 144,
+    "id": 143
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Lower East Side",
+    "locationid": 148,
+    "id": 147
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Manhattan Valley",
+    "locationid": 151,
+    "id": 150
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Manhattanville",
+    "locationid": 152,
+    "id": 151
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Marble Hill",
+    "locationid": 153,
+    "id": 152
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Meatpacking/West Village West",
+    "locationid": 158,
+    "id": 157
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Midtown Center",
+    "locationid": 161,
+    "id": 160
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Midtown East",
+    "locationid": 162,
+    "id": 161
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Midtown North",
+    "locationid": 163,
+    "id": 162
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Midtown South",
+    "locationid": 164,
+    "id": 163
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Morningside Heights",
+    "locationid": 166,
+    "id": 165
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Murray Hill",
+    "locationid": 170,
+    "id": 169
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Penn Station/Madison Sq West",
+    "locationid": 186,
+    "id": 185
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Randalls Island",
+    "locationid": 194,
+    "id": 193
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Roosevelt Island",
+    "locationid": 202,
+    "id": 201
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Seaport",
+    "locationid": 209,
+    "id": 208
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "SoHo",
+    "locationid": 211,
+    "id": 210
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Stuy Town/Peter Cooper Village",
+    "locationid": 224,
+    "id": 223
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Sutton Place/Turtle Bay North",
+    "locationid": 229,
+    "id": 228
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Times Sq/Theatre District",
+    "locationid": 230,
+    "id": 229
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "TriBeCa/Civic Center",
+    "locationid": 231,
+    "id": 230
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Two Bridges/Seward Park",
+    "locationid": 232,
+    "id": 231
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "UN/Turtle Bay South",
+    "locationid": 233,
+    "id": 232
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Union Sq",
+    "locationid": 234,
+    "id": 233
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Upper East Side North",
+    "locationid": 236,
+    "id": 235
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Upper East Side South",
+    "locationid": 237,
+    "id": 236
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Upper West Side North",
+    "locationid": 238,
+    "id": 237
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Upper West Side South",
+    "locationid": 239,
+    "id": 238
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Washington Heights North",
+    "locationid": 243,
+    "id": 242
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Washington Heights South",
+    "locationid": 244,
+    "id": 243
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "West Chelsea/Hudson Yards",
+    "locationid": 246,
+    "id": 245
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "West Village",
+    "locationid": 249,
+    "id": 248
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "World Trade Center",
+    "locationid": 261,
+    "id": 260
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Yorkville East",
+    "locationid": 262,
+    "id": 261
+  },
+  {
+    "borough": "Manhattan",
+    "zone": "Yorkville West",
+    "locationid": 263,
+    "id": 262
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "pickupTime": "1/1/18 0:21",
+    "dropoffTime": "1/1/18 0:24",
+    "puLocationid": 41,
+    "doLocationId": 24,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 1,
+    "pickupTime": "1/1/18 0:44",
+    "dropoffTime": "1/1/18 1:03",
+    "puLocationid": 239,
+    "doLocationId": 140,
+    "tripDistance": 2.7,
+    "totalAmount": 15.3,
+    "type": "yellow"
+  },
+  {
+    "id": 2,
+    "pickupTime": "1/1/18 0:08",
+    "dropoffTime": "1/1/18 0:14",
+    "puLocationid": 262,
+    "doLocationId": 141,
+    "tripDistance": 0.8,
+    "totalAmount": 8.3,
+    "type": "yellow"
+  },
+  {
+    "id": 3,
+    "pickupTime": "1/1/18 0:20",
+    "dropoffTime": "1/1/18 0:52",
+    "puLocationid": 140,
+    "doLocationId": 257,
+    "tripDistance": 10.2,
+    "totalAmount": 34.8,
+    "type": "yellow"
+  },
+  {
+    "id": 4,
+    "pickupTime": "1/1/18 0:09",
+    "dropoffTime": "1/1/18 0:27",
+    "puLocationid": 246,
+    "doLocationId": 239,
+    "tripDistance": 2.5,
+    "totalAmount": 16.55,
+    "type": "yellow"
+  },
+  {
+    "id": 5,
+    "pickupTime": "1/1/18 0:29",
+    "dropoffTime": "1/1/18 0:32",
+    "puLocationid": 143,
+    "doLocationId": 143,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 6,
+    "pickupTime": "1/1/18 0:38",
+    "dropoffTime": "1/1/18 0:48",
+    "puLocationid": 50,
+    "doLocationId": 239,
+    "tripDistance": 1.7,
+    "totalAmount": 12.35,
+    "type": "yellow"
+  },
+  {
+    "id": 7,
+    "pickupTime": "1/1/18 0:49",
+    "dropoffTime": "1/1/18 0:51",
+    "puLocationid": 239,
+    "doLocationId": 238,
+    "tripDistance": 0.7,
+    "totalAmount": 6.3,
+    "type": "yellow"
+  },
+  {
+    "id": 8,
+    "pickupTime": "1/1/18 0:56",
+    "dropoffTime": "1/1/18 1:01",
+    "puLocationid": 238,
+    "doLocationId": 24,
+    "tripDistance": 1,
+    "totalAmount": 8.5,
+    "type": "yellow"
+  },
+  {
+    "id": 9,
+    "pickupTime": "1/1/18 0:17",
+    "dropoffTime": "1/1/18 0:22",
+    "puLocationid": 170,
+    "doLocationId": 170,
+    "tripDistance": 0.7,
+    "totalAmount": 6.8,
+    "type": "yellow"
+  },
+  {
+    "id": 0,
+    "pickupTime": "1/1/18 0:21",
+    "dropoffTime": "1/1/18 0:24",
+    "puLocationid": 41,
+    "doLocationId": 24,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 1,
+    "pickupTime": "1/1/18 0:44",
+    "dropoffTime": "1/1/18 1:03",
+    "puLocationid": 239,
+    "doLocationId": 140,
+    "tripDistance": 2.7,
+    "totalAmount": 15.3,
+    "type": "yellow"
+  },
+  {
+    "id": 2,
+    "pickupTime": "1/1/18 0:08",
+    "dropoffTime": "1/1/18 0:14",
+    "puLocationid": 262,
+    "doLocationId": 141,
+    "tripDistance": 0.8,
+    "totalAmount": 8.3,
+    "type": "yellow"
+  },
+  {
+    "id": 3,
+    "pickupTime": "1/1/18 0:20",
+    "dropoffTime": "1/1/18 0:52",
+    "puLocationid": 140,
+    "doLocationId": 257,
+    "tripDistance": 10.2,
+    "totalAmount": 34.8,
+    "type": "yellow"
+  },
+  {
+    "id": 4,
+    "pickupTime": "1/1/18 0:09",
+    "dropoffTime": "1/1/18 0:27",
+    "puLocationid": 246,
+    "doLocationId": 239,
+    "tripDistance": 2.5,
+    "totalAmount": 16.55,
+    "type": "yellow"
+  },
+  {
+    "id": 5,
+    "pickupTime": "1/1/18 0:29",
+    "dropoffTime": "1/1/18 0:32",
+    "puLocationid": 143,
+    "doLocationId": 143,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 6,
+    "pickupTime": "1/1/18 0:38",
+    "dropoffTime": "1/1/18 0:48",
+    "puLocationid": 50,
+    "doLocationId": 239,
+    "tripDistance": 1.7,
+    "totalAmount": 12.35,
+    "type": "yellow"
+  },
+  {
+    "id": 7,
+    "pickupTime": "1/1/18 0:49",
+    "dropoffTime": "1/1/18 0:51",
+    "puLocationid": 239,
+    "doLocationId": 238,
+    "tripDistance": 0.7,
+    "totalAmount": 6.3,
+    "type": "yellow"
+  },
+  {
+    "id": 8,
+    "pickupTime": "1/1/18 0:56",
+    "dropoffTime": "1/1/18 1:01",
+    "puLocationid": 238,
+    "doLocationId": 24,
+    "tripDistance": 1,
+    "totalAmount": 8.5,
+    "type": "yellow"
+  },
+  {
+    "id": 9,
+    "pickupTime": "1/1/18 0:17",
+    "dropoffTime": "1/1/18 0:22",
+    "puLocationid": 170,
+    "doLocationId": 170,
+    "tripDistance": 0.7,
+    "totalAmount": 6.8,
+    "type": "yellow"
+  },
+  {
+    "id": 0,
+    "pickupTime": "1/1/18 0:21",
+    "dropoffTime": "1/1/18 0:24",
+    "puLocationid": 41,
+    "doLocationId": 24,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 1,
+    "pickupTime": "1/1/18 0:44",
+    "dropoffTime": "1/1/18 1:03",
+    "puLocationid": 239,
+    "doLocationId": 140,
+    "tripDistance": 2.7,
+    "totalAmount": 15.3,
+    "type": "yellow"
+  },
+  {
+    "id": 2,
+    "pickupTime": "1/1/18 0:08",
+    "dropoffTime": "1/1/18 0:14",
+    "puLocationid": 262,
+    "doLocationId": 141,
+    "tripDistance": 0.8,
+    "totalAmount": 8.3,
+    "type": "yellow"
+  },
+  {
+    "id": 3,
+    "pickupTime": "1/1/18 0:20",
+    "dropoffTime": "1/1/18 0:52",
+    "puLocationid": 140,
+    "doLocationId": 257,
+    "tripDistance": 10.2,
+    "totalAmount": 34.8,
+    "type": "yellow"
+  },
+  {
+    "id": 4,
+    "pickupTime": "1/1/18 0:09",
+    "dropoffTime": "1/1/18 0:27",
+    "puLocationid": 246,
+    "doLocationId": 239,
+    "tripDistance": 2.5,
+    "totalAmount": 16.55,
+    "type": "yellow"
+  },
+  {
+    "id": 5,
+    "pickupTime": "1/1/18 0:29",
+    "dropoffTime": "1/1/18 0:32",
+    "puLocationid": 143,
+    "doLocationId": 143,
+    "tripDistance": 0.5,
+    "totalAmount": 5.8,
+    "type": "yellow"
+  },
+  {
+    "id": 6,
+    "pickupTime": "1/1/18 0:38",
+    "dropoffTime": "1/1/18 0:48",
+    "puLocationid": 50,
+    "doLocationId": 239,
+    "tripDistance": 1.7,
+    "totalAmount": 12.35,
+    "type": "yellow"
+  },
+  {
+    "id": 7,
+    "pickupTime": "1/1/18 0:49",
+    "dropoffTime": "1/1/18 0:51",
+    "puLocationid": 239,
+    "doLocationId": 238,
+    "tripDistance": 0.7,
+    "totalAmount": 6.3,
+    "type": "yellow"
+  },
+  {
+    "id": 8,
+    "pickupTime": "1/1/18 0:56",
+    "dropoffTime": "1/1/18 1:01",
+    "puLocationid": 238,
+    "doLocationId": 24,
+    "tripDistance": 1,
+    "totalAmount": 8.5,
+    "type": "yellow"
+  },
+  {
+    "id": 9,
+    "pickupTime": "1/1/18 0:17",
+    "dropoffTime": "1/1/18 0:22",
+    "puLocationid": 170,
+    "doLocationId": 170,
+    "tripDistance": 0.7,
+    "totalAmount": 6.8,
+    "type": "yellow"
+  }
+]

@@ -1,0 +1,8 @@
+utils/HibernateUtil.class
+dao/BoroughDAO.class
+dao/TaxiDAO.class
+models/Borough.class
+resource/HealthCheck.class
+processing/ApplicationConfig.class
+resource/TaxiResource.class
+models/Taxi.class

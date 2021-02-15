@@ -1,0 +1,22 @@
+
+squid:S00116"`Rename this field "lpep_dropoff_datetime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÓÛ¦8²¦»ù.
+xsquid:S00116"ZRename this field "passenger_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Æµ8²¦»ù.
+|squid:S00116"XRename this field "trip_distance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÛ¦®ûÿÿÿÿ8²¦»ù.
+usquid:S00116"VRename this field "fare_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«›Œ°8²¦»ù.
+psquid:S00116"RRename this field "mta_tax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÌ†8²¦»ù.
+ysquid:S00116"URename this field "tip_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù×øàùÿÿÿÿ8²¦»ù.
+{squid:S00116"WRename this field "tolls_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‰•úüÿÿÿÿ8²¦»ù.
+„squid:S00116 "`Rename this field "improvement_surcharge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß©‚ûÿÿÿÿ8²¦»ù.
+vsquid:S00116""WRename this field "total_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÊÆ¥8²¦»ù.
+Wsquid:S1068"9Remove this unused "lpep_dropoff_datetime" private field.(ÔÓÛ¦8²¦»ù.
+Nsquid:S1068"0Remove this unused "pulocationid" private field.(šÖĞ‡8²¦»ù.
+Msquid:S1068"0Remove this unused "dolocationid" private field.(©“à)8²¦»ù.
+Psquid:S1068"3Remove this unused "passenger_count" private field.(†Æµ8²¦»ù.
+Tsquid:S1068"1Remove this unused "trip_distance" private field.(ÇÛ¦®ûÿÿÿÿ8²¦»ù.
+Msquid:S1068"/Remove this unused "fare_amount" private field.(«›Œ°8²¦»ù.
+Lsquid:S1068")Remove this unused "extra" private field.(û§€ûúÿÿÿÿ8²¦»ù.
+Hsquid:S1068"+Remove this unused "mta_tax" private field.(âÌ†8²¦»ù.
+Qsquid:S1068".Remove this unused "tip_amount" private field.(ù×øàùÿÿÿÿ8²¦»ù.
+Ssquid:S1068"0Remove this unused "tolls_amount" private field.(õ‰•úüÿÿÿÿ8²¦»ù.
+\squid:S1068 "9Remove this unused "improvement_surcharge" private field.(ß©‚ûÿÿÿÿ8²¦»ù.
+Nsquid:S1068""0Remove this unused "total_amount" private field.(ÜÊÆ¥8²¦»ù.
