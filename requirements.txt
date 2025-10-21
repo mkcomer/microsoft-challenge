@@ -1,0 +1,16 @@
+# Core dependencies from README
+pandas>=2.0.0
+psycopg2-binary>=2.9.0  # Using binary version to avoid compilation issues
+sqlalchemy>=2.0.0
+requests>=2.28.0
+
+# Development and testing dependencies
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
+jupyterlab>=4.0.0  # In case you want to do data analysis
+
+# Optional: More modern alternatives to consider
+# fastapi>=0.95.0  # Modern alternative to Jersey
+# pydantic>=2.0.0  # Data validation
+# asyncpg>=0.28.0  # Async PostgreSQL driver

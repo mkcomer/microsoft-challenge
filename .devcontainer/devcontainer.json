@@ -1,0 +1,86 @@
+{
+  "name": "Microsoft Challenge - Taxi API",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "latest",
+      "enableNonRootDocker": "true"
+    },
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
+      "installMaven": "true"
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.11"
+    }
+  },
+
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [
+    8080,
+    5432
+  ],
+  
+  // Port attributes object
+  "portsAttributes": {
+    "8080": {
+      "label": "Taxi API",
+      "onAutoForward": "notify"
+    },
+    "5432": {
+      "label": "PostgreSQL",
+      "onAutoForward": "silent"
+    }
+  },
+
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "bash .devcontainer/post-create.sh",
+
+  // Configure tool-specific properties.
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "java.configuration.runtimes": [
+          {
+            "name": "JavaSE-17",
+            "path": "/usr/local/sdkman/candidates/java/current"
+          }
+        ],
+        "java.compile.nullAnalysis.mode": "automatic",
+        "maven.executable.path": "/usr/local/sdkman/candidates/maven/current/bin/mvn"
+      },
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-maven",
+        "ms-python.python",
+        "ms-python.pylint",
+        "ms-azuretools.vscode-docker",
+        "redhat.vscode-xml",
+        "ms-vscode.vscode-json"
+      ]
+    }
+  },
+
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  "remoteUser": "vscode",
+  
+  // Set environment variables
+  "containerEnv": {
+    "MAVEN_OPTS": "-Xmx1024m",
+    "JAVA_HOME": "/usr/local/sdkman/candidates/java/current"
+  },
+
+  // Mount the Docker socket to enable Docker-in-Docker
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker-host.sock,type=bind"
+  ],
+
+  // Lifecycle scripts
+  "initializeCommand": "echo 'Initializing Microsoft Challenge Dev Container...'",
+  "onCreateCommand": "echo 'Dev container created successfully!'"
+}

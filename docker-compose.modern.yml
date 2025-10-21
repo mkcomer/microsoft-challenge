@@ -1,0 +1,66 @@
+# Modern Docker Compose file for development
+# This is an updated version of the original docker-compose.yml with modern practices
+version: '3.8'
+
+services:
+  taxi-api:
+    image: taxi-api:latest
+    ports:
+      - "8080:8080"
+    environment:
+      - PG_DATABASE=taxidatabase
+      - PG_HOST=pgdb
+      - PG_PORT=5432
+      - PG_USER=postgres
+      - PG_PASS=postgres
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - taxi-network
+    restart: unless-stopped
+
+  postgres:
+    container_name: pgdb
+    image: postgres:16-alpine  # Updated to modern PostgreSQL version
+    restart: unless-stopped
+    volumes:
+      - ./pg:/docker-entrypoint-initdb.d/
+      - postgres_data:/var/lib/postgresql/data  # Persistent data storage
+    environment:
+      - POSTGRES_DB=taxidatabase
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    networks:
+      - taxi-network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d taxidatabase"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: Add PgAdmin for database management
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@taxi-api.com
+      - PGADMIN_DEFAULT_PASSWORD=admin
+    ports:
+      - "5050:80"
+    depends_on:
+      - postgres
+    networks:
+      - taxi-network
+    profiles:
+      - tools  # Only start when using --profile tools
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  taxi-network:
+    driver: bridge
